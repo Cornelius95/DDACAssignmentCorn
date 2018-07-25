@@ -14,6 +14,4 @@ Agent Account<br>
 Username: corn<br>
 Password: 1234<br>
 
-Documentation <br>
-ddacdocumentation.pdf <br>
-word file - introduction.docx
+
