@@ -7,12 +7,12 @@ Documentation + Source Code file: <br>
 
 Test Account for demostration<br>
 Admin Account<br>
-Username: test<br>
-Password: test<br>
+Username: betty<br>
+Password: 1234<br>
 
 Agent Account<br>
-Username: testagent<br>
-Password: test<br>
+Username: corn<br>
+Password: 1234<br>
 
 Documentation <br>
 ddacdocumentation.pdf <br>
