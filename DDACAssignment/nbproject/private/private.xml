@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/DDACportal-master/web/confirmation.jsp</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/DDACportal-master/web/agentcustomer.jsp</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/DDACportal-master/web/adminagents.jsp</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/DDACportal-master/src/java/controller/CustomerLoginServlet.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/DDACportal-master/web/agentaddcustomer.jsp</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/DDACportal-master/web/agentbooking.jsp</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/DDACportal-master/src/java/controller/BookVesselServlet.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/DDACportal-master/web/adminhome.jsp</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/DDACportal-master/src/java/controller/LoginServlet.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/DDACportal-master/src/java/Model/Booking.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/DDACportal-master/web/agentchangepassword.jsp</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/DDACportal-master/web/adminbookings.jsp</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/DDACportal-master/src/java/controller/CreateBookingServlet.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/DDACportal-master/src/java/controller/RegisterServlet.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/DDACportal-master/web/agenthome.jsp</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/DDACportal-master/src/java/Model/Items.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/DDACportal-master/src/java/controller/RegisterItemServlet.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/DDACportal-master/src/java/Model/Schedule.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/DDACportal-master/web/homepage.jsp</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/DDACportal-master/web/registerpage.jsp</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/DDACportal-master/web/portloginpage.jsp</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/DDACportal-master/src/java/controller/RegisterCustomerServlet.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/DDACportal-master/src/java/controller/BookingOperationServlet.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/DDACportal-master/web/adminviewschedule.jsp</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/DDACportal-master/web/agentregisteritem.jsp</file>
+        </group>
+    </open-files>
+</project-private>
